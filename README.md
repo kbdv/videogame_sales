@@ -1,7 +1,6 @@
 # videogame_sales
-Analyzing video game sales using Snowflake and Python.
+Analyzing video game sales using Snowflake SQL and Python.
 
-<p>Video games are big business: the global gaming market is projected to be worth more than $300 billion by 2027 according to <a href="https://www.mordorintelligence.com/industry-reports/global-gaming-market">Mordor Intelligence</a>. With so much money at stake, the major game publishers are hugely incentivized to create the next big hit. But are games getting better, or has the golden age of video games already passed?</p>
 <p>This dataset comes from <a href="https://www.kaggle.com/holmjason2/videogamedata">Kaggle</a> and was split into the following two tables: </p> 
 <h3 id="game_sales"><code>game_sales</code></h3>
 <table>
